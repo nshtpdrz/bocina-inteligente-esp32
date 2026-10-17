@@ -86,5 +86,10 @@ docs/diagrama.svg
 - Documentar la cadena de audio y medir calidad o latencia.
 - Carcasa y alimentación por batería.
 
+## Fotografías
+
+![Reproducción por Bluetooth desde Spotify: la OLED muestra título y artista recibidos por AVRCP.](docs/img/bocina-spotify-oled.jpg)  
+*Reproducción por Bluetooth desde Spotify: la OLED muestra título y artista recibidos por AVRCP.*
+
 ---
 Parte del [portafolio técnico](https://github.com/nshtpdrz) de Daniel Ignacio Pedraza Martínez · Ingeniería en Tecnologías de la Información y Comunicaciones, Tecnológico Nacional de México, Campus Pachuca.
